@@ -2,15 +2,15 @@ name: Generate Snake Contribution Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Gera a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # 👈 PERMISSÃO IMPORTANTE
 
     steps:
       - name: Checkout
@@ -22,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Push Snake to the output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
