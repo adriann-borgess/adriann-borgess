@@ -32,4 +32,4 @@ Feel free to reach out — I love sharing knowledge and growing alongside the co
 ---
 
 ### 🐍 Commits
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adrian-borges/adrian-borges/output/github-contribution-grid-snake.svg" />
+<img alt="snake" src="https://raw.githubusercontent.com/adrian-borges/adrian-borges/output/github-contribution-grid-snake.svg" />
