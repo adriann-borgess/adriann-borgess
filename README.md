@@ -19,7 +19,8 @@ Feel free to reach out — I love sharing knowledge and growing alongside the co
 
 ### 🛠️ Technologies & Tools
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -28,8 +29,3 @@ Feel free to reach out — I love sharing knowledge and growing alongside the co
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriannborgess/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriann.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriann.borges)
-
----
-
-### 🐍 Commits
-<img alt="snake" src="https://raw.githubusercontent.com/adrian-borges/adrian-borges/output/github-contribution-grid-snake.svg" />
