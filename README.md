@@ -13,7 +13,7 @@ Feel free to reach out — I love sharing knowledge and growing alongside the co
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriann-borgess&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbortolondasilva&show_icons=true&theme=radical)
 
 ---
 
